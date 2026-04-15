@@ -1,5 +1,5 @@
 AWSTemplateFormatVersion: '2010-09-09'
-Description: Definición del Catálogo de Datos (Bases de Datos) para RetailMex
+Description: Definición del Catálogo de Datos para RetailMex
 
 Parameters:
   Env:
@@ -14,7 +14,7 @@ Resources:
       CatalogId: !Ref AWS::AccountId
       DatabaseInput:
         Name: !Sub "silver_db_${Env}"
-        Description: "Base de datos para la capa Silver (Datos Limpios y Estandarizados)"
+        Description: "Base de datos para la capa Silver Datos Limpios y Estandarizados"
 
 
   GoldDatabase:
@@ -23,7 +23,7 @@ Resources:
       CatalogId: !Ref AWS::AccountId
       DatabaseInput:
         Name: !Sub "gold_db_${Env}"
-        Description: "Base de datos para la capa Gold (Verdad de Negocio y Reporteo)"
+        Description: "Base de datos para la capa Gold"
 
 Outputs:
   SilverDatabaseName:
