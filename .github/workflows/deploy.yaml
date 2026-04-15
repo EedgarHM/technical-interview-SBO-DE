@@ -27,7 +27,7 @@ jobs:
         uses: aws-actions/aws-cloudformation-github-deploy@v1
         with:
           name: RetailMex-DataLakehouse-STG
-          template: "./SBO-DE(IC2-IC4)/Entregable 4/templates/master.yaml"
+          template: "./SBO-DE(IC2-IC4)/Entregable 4/master.yaml"
           no-fail-on-empty-changeset: "1"
           capabilities: CAPABILITY_NAMED_IAM
           parameter-overrides: >-
