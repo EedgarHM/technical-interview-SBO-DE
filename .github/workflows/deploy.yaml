@@ -2,38 +2,35 @@ name: RetailMex CI/CD Pipeline
 
 on:
   push:
-    branches:
-      - main
+    branches: [ main ]
 
 jobs:
-  deploy-infrastructure:
-    runs-on: ubuntu-latest 
+  deploy:
+    runs-on: ubuntu-latest
     steps:
-    
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Configure AWS Credentials
-        uses: aws-actions/configure-aws-credentials@v2
+        uses: aws-actions/configure-aws-credentials@v4
         with:
           aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-2
 
-
-      - name: Sync S3 Assets
+      - name: Sync Files to S3
         run: |
-          aws s3 sync ./infrastructure s3://bucket-scripts-retailmex/ --delete
-          aws s3 sync ./src s3://bucket-scripts-retailmex/scripts/ --delete
+          aws s3 sync ./infrastructure s3://mis-plantillas-despliegue/ --delete
+          aws s3 sync ./src s3://mis-plantillas-despliegue/scripts/ --delete
 
       - name: Deploy CloudFormation
         uses: aws-actions/aws-cloudformation-github-deploy@v1
         with:
           name: RetailMex-DataLakehouse-STG
           template: infrastructure/master.yaml
-          capabilities: CAPABILITY_NAMED_IAM
           no-fail-on-empty-changeset: "1"
+          capabilities: CAPABILITY_NAMED_IAM
           parameter-overrides: >-
             Environment=stg,
-            TemplateBucketURL=https://bucket-scripts-retailmex.s3.us-east-2.amazonaws.com/,
-            S3ScriptPath=s3://bucket-scripts-retailmex/scripts/etl_silver.py
+            TemplateBucketURL=https://mis-plantillas-despliegue.s3.us-east-2.amazonaws.com/,
+            S3ScriptPath=s3://mis-plantillas-despliegue/scripts/silver/etl_transactions_silver.py
