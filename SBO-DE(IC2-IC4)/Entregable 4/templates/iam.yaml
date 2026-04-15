@@ -1,0 +1,40 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Roles de seguridad para el pipeline de RetailMex
+
+Parameters:
+  Env: { Type: String }
+  DataBucketArn: { Type: String }
+
+Resources:
+  GlueServiceRole:
+    Type: AWS::IAM::Role
+    Properties:
+      RoleName: !Sub "retailmex-glue-role-${Env}"
+      AssumeRolePolicyDocument:
+        Version: "2012-10-17"
+        Statement:
+          - Effect: Allow
+            Principal: { Service: [glue.amazonaws.com] }
+            Action: ["sts:AssumeRole"]
+      ManagedPolicyArns:
+        - arn:aws:iam::aws:policy/service-role/AWSGlueServiceRole
+      Policies:
+        - PolicyName: S3AccessPolicy
+          PolicyDocument:
+            Version: "2012-10-17"
+            Statement:
+              - Effect: Allow
+                Action: 
+                  - "s3:GetObject"
+                  - "s3:PutObject"
+                  - "s3:DeleteObject"
+                  - "s3:ListBucket"
+                Resource: 
+                  - !Ref DataBucketArn
+                  - !Sub "${DataBucketArn}/*"
+                  #- "arn:aws:s3:::bucket-scripts-retailmex/*" 
+                  #- "arn:aws:s3:::bucket-scripts-retailmex/*"
+
+Outputs:
+  GlueRoleArn:
+    Value: !GetAtt GlueServiceRole.Arn

@@ -1,0 +1,32 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Definición del Catálogo de Datos (Bases de Datos) para RetailMex
+
+Parameters:
+  Env:
+    Type: String
+    Description: Entorno (stg/prod)
+
+Resources:
+
+  SilverDatabase:
+    Type: AWS::Glue::Database
+    Properties:
+      CatalogId: !Ref AWS::AccountId
+      DatabaseInput:
+        Name: !Sub "silver_db_${Env}"
+        Description: "Base de datos para la capa Silver (Datos Limpios y Estandarizados)"
+
+
+  GoldDatabase:
+    Type: AWS::Glue::Database
+    Properties:
+      CatalogId: !Ref AWS::AccountId
+      DatabaseInput:
+        Name: !Sub "gold_db_${Env}"
+        Description: "Base de datos para la capa Gold (Verdad de Negocio y Reporteo)"
+
+Outputs:
+  SilverDatabaseName:
+    Value: !Ref SilverDatabase
+  GoldDatabaseName:
+    Value: !Ref GoldDatabase

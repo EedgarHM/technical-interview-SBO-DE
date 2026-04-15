@@ -1,0 +1,28 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Definición de los Glue Jobs (PySpark + Iceberg)
+
+Parameters:
+  Env: { Type: String }
+  GlueRoleArn: { Type: String }
+  S3ScriptPath: { Type: String }
+  SilverBucketName: { Type: String }
+
+Resources:
+  SilverJob:
+    Type: AWS::Glue::Job
+    Properties:
+      Name: !Sub "retailmex-etl-silver-${Env}"
+      Role: !Ref GlueRoleArn
+      Command:
+        Name: glueetl
+        ScriptLocation: !Ref S3ScriptPath
+        PythonVersion: "3"
+      GlueVersion: "4.0"
+      WorkerType: G.1X
+      NumberOfWorkers: 2
+      DefaultArguments:
+        "--datalake-formats": "iceberg"
+        "--job-language": "python"
+        "--enable-metrics": "true"
+        "--enable-continuous-cloudwatch-log": "true"
+        "--conf": "spark.sql.catalog.glue_catalog=org.apache.iceberg.spark.SparkCatalog --conf spark.sql.catalog.glue_catalog.catalog-impl=org.apache.iceberg.aws.glue.GlueCatalog --conf spark.sql.extensions=org.apache.iceberg.spark.extensions.IcebergSparkSessionExtensions"

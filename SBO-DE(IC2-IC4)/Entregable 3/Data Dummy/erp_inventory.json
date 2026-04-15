@@ -1,0 +1,5622 @@
+{
+    "reference_id": "POS-952-0",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-385-1",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-649-2",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-947-3",
+    "amount_credited": 258.38,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-358-4",
+    "amount_credited": 217.21,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-863-5",
+    "amount_credited": 401.64,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-247-6",
+    "amount_credited": 481.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-1050",
+    "amount_credited": 145.62,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "WEB-7075",
+    "amount_credited": 485.05,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "POS-386-10",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-4438",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-1500",
+    "amount_credited": 278.39,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-438-14",
+    "amount_credited": 79.68,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "WEB-5914",
+    "amount_credited": 415.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-827-16",
+    "amount_credited": 186.64,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-5998",
+    "amount_credited": 362.26,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "POS-308-18",
+    "amount_credited": 235.56,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-874-19",
+    "amount_credited": 471.76,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "WEB-7743",
+    "amount_credited": 151.28,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-452-21",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "WEB-9615",
+    "amount_credited": 282.94,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "POS-908-23",
+    "amount_credited": 495.81,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "WEB-7918",
+    "amount_credited": 400.27,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-395-25",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-844-26",
+    "amount_credited": 311.16,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "POS-562-27",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-988-28",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "POS-926-29",
+    "amount_credited": 346.91,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-6730",
+    "amount_credited": 397.55,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "POS-609-31",
+    "amount_credited": 359.4,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-570-32",
+    "amount_credited": 129.16,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "WEB-2147",
+    "amount_credited": 97.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "POS-814-34",
+    "amount_credited": 190.69,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "WEB-2940",
+    "amount_credited": 265.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "POS-212-36",
+    "amount_credited": 124.57,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "WEB-6207",
+    "amount_credited": 97.26,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "POS-457-38",
+    "amount_credited": 114.47,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "POS-567-39",
+    "amount_credited": 72.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-6053",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "POS-430-41",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-6061",
+    "amount_credited": 489.25,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "WEB-8154",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-1170",
+    "amount_credited": 481.27,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-9335",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "WEB-5099",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-7199",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-4964",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-1733",
+    "amount_credited": 239.32,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "WEB-3781",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-9895",
+    "amount_credited": 278.97,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-4570",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-501-56",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-7125",
+    "amount_credited": 386.07,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-4023",
+    "amount_credited": 402.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-463-59",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "WEB-6947",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-331-61",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-588-62",
+    "amount_credited": 282.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-181-63",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-6083",
+    "amount_credited": 329.04,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-5187",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "WEB-9342",
+    "amount_credited": 40.49,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "POS-142-67",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-570-68",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-171-69",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-655-70",
+    "amount_credited": 32.06,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "POS-800-71",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-182-72",
+    "amount_credited": 437.11,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "POS-473-73",
+    "amount_credited": 292.09,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-3845",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-6303",
+    "amount_credited": 393.18,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-7754",
+    "amount_credited": 105.32,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "WEB-5776",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "WEB-3777",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-799-79",
+    "amount_credited": 276.18,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-4266",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-5005",
+    "amount_credited": 489.79,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-8093",
+    "amount_credited": 487.21,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "WEB-1918",
+    "amount_credited": 432.8,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "WEB-5872",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-551-86",
+    "amount_credited": 121.99,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-1187",
+    "amount_credited": 286.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-776-89",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "POS-122-90",
+    "amount_credited": 378.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-7173",
+    "amount_credited": 114.42,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "WEB-6225",
+    "amount_credited": 102.84,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-252-93",
+    "amount_credited": 384.91,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "WEB-4298",
+    "amount_credited": 47.0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-862-95",
+    "amount_credited": 29.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-1895",
+    "amount_credited": 499.05,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-6164",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-481-98",
+    "amount_credited": 313.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "WEB-3910",
+    "amount_credited": 34.23,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-399-100",
+    "amount_credited": 449.45,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "POS-248-101",
+    "amount_credited": 39.33,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "POS-484-102",
+    "amount_credited": 422.08,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "POS-847-103",
+    "amount_credited": 335.58,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "POS-811-104",
+    "amount_credited": 356.33,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "POS-148-105",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-4354",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-1016",
+    "amount_credited": 320.84,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-8727",
+    "amount_credited": 429.48,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-976-110",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "WEB-9810",
+    "amount_credited": 438.17,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-254-112",
+    "amount_credited": 250.75,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "WEB-5812",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "WEB-5819",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-9260",
+    "amount_credited": 30.04,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-157-117",
+    "amount_credited": 15.23,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-379-118",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "WEB-4458",
+    "amount_credited": 46.68,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-981-120",
+    "amount_credited": 89.17,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "WEB-6613",
+    "amount_credited": 490.44,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "POS-405-122",
+    "amount_credited": 187.67,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-9435",
+    "amount_credited": 204.39,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "WEB-3377",
+    "amount_credited": 446.53,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "POS-351-125",
+    "amount_credited": 224.22,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-7326",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-630-127",
+    "amount_credited": 288.68,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "POS-972-128",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "POS-885-129",
+    "amount_credited": 316.96,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "WEB-5523",
+    "amount_credited": 192.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "POS-941-131",
+    "amount_credited": 488.29,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "WEB-5858",
+    "amount_credited": 87.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-3106",
+    "amount_credited": 462.61,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-588-134",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-335-135",
+    "amount_credited": 462.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "WEB-1921",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "WEB-7472",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-183-138",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "WEB-8058",
+    "amount_credited": 451.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-9311",
+    "amount_credited": 298.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "POS-401-142",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-4983",
+    "amount_credited": 410.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "POS-548-144",
+    "amount_credited": 412.07,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "WEB-7653",
+    "amount_credited": 343.11,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-8454",
+    "amount_credited": 369.63,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "WEB-9691",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-735-148",
+    "amount_credited": 138.89,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-9240",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-162-150",
+    "amount_credited": 215.28,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-7720",
+    "amount_credited": 73.34,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-8686",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "POS-807-153",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "POS-529-154",
+    "amount_credited": 461.71,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "WEB-3245",
+    "amount_credited": 441.95,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-5540",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-6925",
+    "amount_credited": 340.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "POS-649-159",
+    "amount_credited": 351.8,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "WEB-7857",
+    "amount_credited": 324.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "WEB-6539",
+    "amount_credited": 262.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-8964",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "POS-988-163",
+    "amount_credited": 260.01,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-952-164",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-700-165",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-389-166",
+    "amount_credited": 38.32,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-818-167",
+    "amount_credited": 191.37,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-4373",
+    "amount_credited": 137.72,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-453-169",
+    "amount_credited": 299.97,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "WEB-6904",
+    "amount_credited": 184.75,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "WEB-9090",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "WEB-7408",
+    "amount_credited": 64.42,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "POS-935-174",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-946-175",
+    "amount_credited": 260.91,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "POS-406-176",
+    "amount_credited": 480.18,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-426-177",
+    "amount_credited": 353.62,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-448-178",
+    "amount_credited": 343.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "WEB-5217",
+    "amount_credited": 271.91,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-543-180",
+    "amount_credited": 199.92,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-3322",
+    "amount_credited": 97.72,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "POS-364-182",
+    "amount_credited": 299.99,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "POS-837-183",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-1573",
+    "amount_credited": 380.85,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-977-185",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-788-186",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-893-187",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-239-188",
+    "amount_credited": 34.69,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "POS-175-189",
+    "amount_credited": 187.73,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "WEB-9574",
+    "amount_credited": 324.51,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-434-191",
+    "amount_credited": 352.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-9149",
+    "amount_credited": 224.42,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "WEB-6449",
+    "amount_credited": 415.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-437-194",
+    "amount_credited": 429.49,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-188-195",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-4798",
+    "amount_credited": 423.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-6174",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-894-198",
+    "amount_credited": 207.83,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "POS-319-199",
+    "amount_credited": 422.85,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "WEB-1042",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "WEB-9212",
+    "amount_credited": 66.92,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "WEB-9506",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-8102",
+    "amount_credited": 348.25,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "WEB-9909",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "WEB-6207",
+    "amount_credited": 365.57,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "WEB-9255",
+    "amount_credited": 207.46,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-8300",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-7219",
+    "amount_credited": 464.55,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-7491",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "WEB-7012",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "POS-575-211",
+    "amount_credited": 487.83,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "WEB-3299",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "WEB-7270",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-114-214",
+    "amount_credited": 444.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-298-215",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "WEB-1620",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-852-218",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-880-219",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "WEB-5020",
+    "amount_credited": 428.56,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "POS-572-221",
+    "amount_credited": 319.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "POS-149-222",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "POS-107-223",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "POS-338-224",
+    "amount_credited": 446.53,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "POS-934-225",
+    "amount_credited": 322.43,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-422-226",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-616-227",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-4953",
+    "amount_credited": 334.31,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "WEB-3912",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "WEB-4986",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "WEB-4807",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "WEB-4386",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-5891",
+    "amount_credited": 363.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "WEB-6674",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-529-236",
+    "amount_credited": 392.45,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "POS-743-237",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-382-239",
+    "amount_credited": 264.18,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-563-240",
+    "amount_credited": 490.06,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "WEB-5019",
+    "amount_credited": 194.22,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "POS-978-242",
+    "amount_credited": 56.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-8302",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-5284",
+    "amount_credited": 438.56,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "WEB-3975",
+    "amount_credited": 241.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "WEB-5587",
+    "amount_credited": 72.79,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "WEB-4518",
+    "amount_credited": 490.7,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "POS-402-248",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-765-249",
+    "amount_credited": 143.47,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-956-250",
+    "amount_credited": 442.26,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "POS-168-251",
+    "amount_credited": 129.02,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-9953",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-3145",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "WEB-1721",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-6198",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "POS-234-256",
+    "amount_credited": 188.92,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-370-257",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-1954",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "WEB-5164",
+    "amount_credited": 25.68,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "POS-491-261",
+    "amount_credited": 64.43,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-8154",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-6884",
+    "amount_credited": 479.45,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "POS-793-264",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "WEB-1955",
+    "amount_credited": 345.61,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "WEB-9927",
+    "amount_credited": 348.66,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "WEB-4205",
+    "amount_credited": 256.32,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "POS-958-268",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-1981",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "POS-708-270",
+    "amount_credited": 23.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-3721",
+    "amount_credited": 481.19,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "WEB-6136",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-426-273",
+    "amount_credited": 46.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "WEB-6280",
+    "amount_credited": 255.74,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-8645",
+    "amount_credited": 146.23,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-100-276",
+    "amount_credited": 93.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "WEB-9086",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-8641",
+    "amount_credited": 420.25,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-378-279",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-2839",
+    "amount_credited": 317.34,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "WEB-9483",
+    "amount_credited": 328.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "WEB-3400",
+    "amount_credited": 176.76,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-4347",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-5926",
+    "amount_credited": 144.95,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-9314",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-2400",
+    "amount_credited": 44.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "POS-218-288",
+    "amount_credited": 150.29,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "POS-760-289",
+    "amount_credited": 291.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-3536",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-6855",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-9907",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "POS-428-293",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "WEB-1133",
+    "amount_credited": 74.63,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-2075",
+    "amount_credited": 442.41,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "POS-480-296",
+    "amount_credited": 157.88,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-671-297",
+    "amount_credited": 368.37,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "POS-482-298",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-396-299",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "WEB-3882",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "POS-817-302",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "POS-953-303",
+    "amount_credited": 47.34,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "POS-638-304",
+    "amount_credited": 456.87,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "WEB-3637",
+    "amount_credited": 285.23,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-980-306",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "POS-653-307",
+    "amount_credited": 390.46,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-153-308",
+    "amount_credited": 20.16,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "POS-534-310",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-9134",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "POS-165-312",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-2089",
+    "amount_credited": 471.01,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "POS-748-315",
+    "amount_credited": 382.96,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "WEB-6863",
+    "amount_credited": 235.47,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "WEB-2392",
+    "amount_credited": 495.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-1619",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-936-319",
+    "amount_credited": 76.56,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-1561",
+    "amount_credited": 127.01,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-4668",
+    "amount_credited": 77.19,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-682-323",
+    "amount_credited": 191.08,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "WEB-6839",
+    "amount_credited": 465.13,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-3915",
+    "amount_credited": 470.02,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "POS-319-326",
+    "amount_credited": 48.57,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "POS-654-327",
+    "amount_credited": 259.45,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-255-328",
+    "amount_credited": 114.57,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "POS-549-329",
+    "amount_credited": 344.88,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-560-331",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-3278",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "WEB-9069",
+    "amount_credited": 321.98,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-3383",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-8548",
+    "amount_credited": 294.73,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-181-336",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "POS-153-337",
+    "amount_credited": 280.33,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "WEB-9439",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "WEB-3193",
+    "amount_credited": 33.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-6720",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-2909",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-7747",
+    "amount_credited": 315.67,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-5543",
+    "amount_credited": 193.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-2638",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "POS-769-347",
+    "amount_credited": 431.84,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "POS-107-348",
+    "amount_credited": 198.89,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-264-349",
+    "amount_credited": 464.95,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "POS-209-350",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "POS-777-351",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "WEB-6832",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-4713",
+    "amount_credited": 390.04,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "WEB-5879",
+    "amount_credited": 128.22,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "WEB-8698",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-5638",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-5880",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "POS-811-358",
+    "amount_credited": 69.85,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-7512",
+    "amount_credited": 368.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "POS-741-360",
+    "amount_credited": 323.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-548-361",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "POS-180-362",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "POS-608-363",
+    "amount_credited": 412.17,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-678-364",
+    "amount_credited": 374.66,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-9863",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-2476",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "POS-906-367",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "WEB-7969",
+    "amount_credited": 377.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "WEB-6989",
+    "amount_credited": 293.94,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-478-370",
+    "amount_credited": 291.7,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-675-371",
+    "amount_credited": 26.32,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "WEB-7028",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "WEB-3014",
+    "amount_credited": 166.15,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "POS-746-374",
+    "amount_credited": 331.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "WEB-5484",
+    "amount_credited": 288.02,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "WEB-1599",
+    "amount_credited": 112.7,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-7235",
+    "amount_credited": 135.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-983-379",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-9130",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-5272",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "WEB-8124",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-650-384",
+    "amount_credited": 448.73,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "WEB-3755",
+    "amount_credited": 252.99,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-203-386",
+    "amount_credited": 64.34,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-462-387",
+    "amount_credited": 112.06,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "WEB-3466",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-906-389",
+    "amount_credited": 438.62,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "POS-851-390",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-179-391",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "POS-494-392",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "WEB-5349",
+    "amount_credited": 212.99,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-1620",
+    "amount_credited": 143.72,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "POS-961-395",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-4951",
+    "amount_credited": 462.95,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "WEB-8861",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "WEB-2867",
+    "amount_credited": 171.62,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "POS-373-400",
+    "amount_credited": 261.02,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "WEB-9346",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "WEB-2240",
+    "amount_credited": 45.0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-329-403",
+    "amount_credited": 87.14,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-5636",
+    "amount_credited": 443.31,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "WEB-4466",
+    "amount_credited": 380.56,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-7492",
+    "amount_credited": 158.38,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-1429",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-241-408",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "POS-450-409",
+    "amount_credited": 153.94,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "WEB-3397",
+    "amount_credited": 271.26,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "POS-459-411",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "WEB-1187",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "POS-279-413",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "POS-305-414",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "POS-988-415",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-183-416",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-175-417",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "WEB-4910",
+    "amount_credited": 262.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "WEB-4157",
+    "amount_credited": 89.21,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "POS-509-420",
+    "amount_credited": 388.62,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "WEB-2251",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-1965",
+    "amount_credited": 417.45,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "POS-877-423",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-1886",
+    "amount_credited": 384.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "WEB-4169",
+    "amount_credited": 450.93,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-500-426",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-9007",
+    "amount_credited": 259.91,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-3279",
+    "amount_credited": 375.69,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-754-429",
+    "amount_credited": 111.06,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "POS-929-430",
+    "amount_credited": 330.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "POS-925-431",
+    "amount_credited": 16.25,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "POS-342-432",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "WEB-7635",
+    "amount_credited": 342.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "POS-254-434",
+    "amount_credited": 367.96,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-539-435",
+    "amount_credited": 289.98,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "POS-892-438",
+    "amount_credited": 316.43,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "WEB-4549",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "POS-335-440",
+    "amount_credited": 174.8,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "POS-552-441",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-8160",
+    "amount_credited": 210.7,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "WEB-7030",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-230-444",
+    "amount_credited": 229.09,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "WEB-2627",
+    "amount_credited": 322.89,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-9772",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-405-447",
+    "amount_credited": 96.0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "POS-194-448",
+    "amount_credited": 265.15,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-635-449",
+    "amount_credited": 459.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-2989",
+    "amount_credited": 470.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-9332",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "WEB-5400",
+    "amount_credited": 344.35,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-7183",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "WEB-4097",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "WEB-6267",
+    "amount_credited": 407.41,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-2209",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-475-458",
+    "amount_credited": 120.88,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-8178",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-4908",
+    "amount_credited": 101.9,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-890-461",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-427-462",
+    "amount_credited": 173.47,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "WEB-9702",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "WEB-6720",
+    "amount_credited": 360.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "POS-558-465",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-8923",
+    "amount_credited": 302.27,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "WEB-9927",
+    "amount_credited": 423.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "WEB-2571",
+    "amount_credited": 20.76,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-3726",
+    "amount_credited": 27.49,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "WEB-8712",
+    "amount_credited": 301.35,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "WEB-2807",
+    "amount_credited": 20.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-8535",
+    "amount_credited": 142.62,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "POS-570-475",
+    "amount_credited": 347.48,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "WEB-8105",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "POS-192-478",
+    "amount_credited": 325.81,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-1537",
+    "amount_credited": 271.73,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-789-480",
+    "amount_credited": 410.47,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-8416",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-414-482",
+    "amount_credited": 167.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-644-483",
+    "amount_credited": 188.16,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "WEB-4175",
+    "amount_credited": 123.47,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "WEB-1084",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "POS-549-486",
+    "amount_credited": 93.34,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-9204",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-832-488",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-5232",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-947-490",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "POS-698-491",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-833-492",
+    "amount_credited": 120.3,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "POS-171-493",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "POS-721-494",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "POS-928-495",
+    "amount_credited": 168.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-818-496",
+    "amount_credited": 345.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-5210",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-7984",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "WEB-1816",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "WEB-4658",
+    "amount_credited": 163.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-4337",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-9556",
+    "amount_credited": 498.18,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "WEB-2467",
+    "amount_credited": 255.74,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "POS-339-504",
+    "amount_credited": 270.64,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-284-505",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-269-506",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "WEB-1756",
+    "amount_credited": 335.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "POS-931-508",
+    "amount_credited": 315.94,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-311-509",
+    "amount_credited": 290.59,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "POS-974-511",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-717-512",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "WEB-9959",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "POS-254-514",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-1191",
+    "amount_credited": 346.69,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "POS-822-516",
+    "amount_credited": 68.17,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "POS-787-518",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-554-519",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "POS-305-520",
+    "amount_credited": 405.4,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "WEB-1081",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-104-522",
+    "amount_credited": 240.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-3750",
+    "amount_credited": 80.14,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "POS-330-524",
+    "amount_credited": 220.13,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "WEB-6282",
+    "amount_credited": 239.18,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-622-526",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-535-527",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-7602",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-779-529",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-525-530",
+    "amount_credited": 224.83,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-4237",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "WEB-1097",
+    "amount_credited": 199.13,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-4360",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-4991",
+    "amount_credited": 100.88,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-445-535",
+    "amount_credited": 297.99,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "POS-806-536",
+    "amount_credited": 252.4,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "WEB-8964",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "WEB-8815",
+    "amount_credited": 463.31,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "WEB-9328",
+    "amount_credited": 378.72,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "WEB-3666",
+    "amount_credited": 237.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "WEB-2616",
+    "amount_credited": 234.08,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "POS-922-542",
+    "amount_credited": 102.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "POS-690-543",
+    "amount_credited": 317.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-759-544",
+    "amount_credited": 166.21,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-488-545",
+    "amount_credited": 401.11,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-5489",
+    "amount_credited": 307.11,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-1793",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "WEB-8924",
+    "amount_credited": 234.85,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "POS-810-549",
+    "amount_credited": 499.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-1210",
+    "amount_credited": 30.8,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "WEB-7957",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-905-552",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "WEB-1905",
+    "amount_credited": 473.28,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "WEB-1139",
+    "amount_credited": 416.96,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "POS-189-555",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-2209",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-636-557",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "POS-186-558",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-9992",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-9745",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-2073",
+    "amount_credited": 339.79,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-3043",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "WEB-9472",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "POS-810-564",
+    "amount_credited": 371.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-579-565",
+    "amount_credited": 399.9,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-750-566",
+    "amount_credited": 53.88,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-8798",
+    "amount_credited": 180.67,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "WEB-6104",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "WEB-8586",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-862-570",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "WEB-6732",
+    "amount_credited": 351.56,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-9740",
+    "amount_credited": 421.38,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-538-573",
+    "amount_credited": 320.15,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "WEB-6445",
+    "amount_credited": 449.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-435-575",
+    "amount_credited": 403.57,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-571-576",
+    "amount_credited": 34.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-239-577",
+    "amount_credited": 427.73,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-467-578",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-5087",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "WEB-2106",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-1010",
+    "amount_credited": 290.87,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "WEB-7393",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "WEB-5983",
+    "amount_credited": 338.37,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "POS-427-584",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "WEB-1423",
+    "amount_credited": 431.31,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-310-586",
+    "amount_credited": 67.8,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-302-587",
+    "amount_credited": 74.51,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "POS-775-588",
+    "amount_credited": 104.06,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "WEB-6198",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-597-590",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "WEB-9643",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-701-592",
+    "amount_credited": 298.81,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "WEB-8365",
+    "amount_credited": 233.44,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "WEB-8607",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "POS-852-595",
+    "amount_credited": 11.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "WEB-6227",
+    "amount_credited": 278.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-890-597",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "WEB-2360",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-399-599",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "POS-705-600",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-353-601",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "WEB-1696",
+    "amount_credited": 133.94,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-6374",
+    "amount_credited": 46.95,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "POS-223-604",
+    "amount_credited": 349.53,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "POS-523-605",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "WEB-9637",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "WEB-6733",
+    "amount_credited": 245.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "WEB-1644",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-9633",
+    "amount_credited": 38.29,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-388-610",
+    "amount_credited": 373.4,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-4673",
+    "amount_credited": 150.53,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-886-612",
+    "amount_credited": 183.39,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "WEB-1374",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-1091",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "WEB-8124",
+    "amount_credited": 237.85,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "POS-142-617",
+    "amount_credited": 301.39,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "POS-201-618",
+    "amount_credited": 340.57,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "WEB-5863",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-494-621",
+    "amount_credited": 314.85,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "POS-206-622",
+    "amount_credited": 211.71,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "POS-968-623",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-389-624",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "WEB-8651",
+    "amount_credited": 89.0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-278-626",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-533-627",
+    "amount_credited": 216.67,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "POS-672-628",
+    "amount_credited": 292.23,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-389-629",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "WEB-2185",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "POS-271-632",
+    "amount_credited": 372.99,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-8655",
+    "amount_credited": 18.17,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-5496",
+    "amount_credited": 123.38,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-6179",
+    "amount_credited": 462.83,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "WEB-7425",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "WEB-2257",
+    "amount_credited": 76.47,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "POS-205-638",
+    "amount_credited": 436.84,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "POS-344-639",
+    "amount_credited": 379.08,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-1279",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "WEB-8560",
+    "amount_credited": 462.26,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-190-642",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "POS-647-643",
+    "amount_credited": 50.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-4047",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "WEB-4678",
+    "amount_credited": 355.57,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-443-647",
+    "amount_credited": 175.22,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "POS-121-648",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-9835",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "POS-258-650",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-9334",
+    "amount_credited": 50.21,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-9002",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-3327",
+    "amount_credited": 239.81,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-196-654",
+    "amount_credited": 42.06,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-531-655",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "POS-812-656",
+    "amount_credited": 322.21,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-739-657",
+    "amount_credited": 241.69,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-598-658",
+    "amount_credited": 480.06,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "WEB-1118",
+    "amount_credited": 381.79,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "POS-546-660",
+    "amount_credited": 10.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-7565",
+    "amount_credited": 64.72,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "POS-977-662",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-9983",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "WEB-3274",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-9587",
+    "amount_credited": 466.61,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "WEB-5169",
+    "amount_credited": 328.96,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "POS-243-667",
+    "amount_credited": 417.46,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "WEB-7157",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "POS-115-669",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "POS-627-670",
+    "amount_credited": 265.46,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "POS-976-671",
+    "amount_credited": 301.91,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-104-672",
+    "amount_credited": 395.77,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "WEB-1293",
+    "amount_credited": 68.66,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "WEB-8377",
+    "amount_credited": 239.86,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "POS-182-675",
+    "amount_credited": 297.13,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:11:51"
+}
+{
+    "reference_id": "POS-526-676",
+    "amount_credited": 123.87,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "WEB-2855",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-431-678",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-8372",
+    "amount_credited": 23.66,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-570-680",
+    "amount_credited": 249.97,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-6004",
+    "amount_credited": 231.46,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-678-682",
+    "amount_credited": 462.55,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "POS-315-683",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-6839",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-189-685",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-9763",
+    "amount_credited": 305.33,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-279-687",
+    "amount_credited": 140.31,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "WEB-2629",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "POS-849-689",
+    "amount_credited": 496.4,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-8370",
+    "amount_credited": 68.48,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "POS-724-691",
+    "amount_credited": 251.63,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "WEB-1303",
+    "amount_credited": 232.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "POS-132-693",
+    "amount_credited": 290.71,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "POS-713-694",
+    "amount_credited": 378.74,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-7975",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "POS-244-696",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "POS-197-697",
+    "amount_credited": 153.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-996-698",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-525-699",
+    "amount_credited": 277.94,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-4500",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-661-701",
+    "amount_credited": 153.41,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "WEB-4556",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-9252",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "POS-965-705",
+    "amount_credited": 236.41,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "WEB-4762",
+    "amount_credited": 417.88,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "WEB-9166",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "WEB-5684",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-3345",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "WEB-7821",
+    "amount_credited": 38.58,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "POS-517-711",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-775-712",
+    "amount_credited": 296.53,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "WEB-6320",
+    "amount_credited": 488.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-684-714",
+    "amount_credited": 32.71,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "POS-404-715",
+    "amount_credited": 247.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "WEB-2741",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "POS-716-717",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-6401",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "WEB-5206",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "WEB-5322",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "POS-662-721",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-3852",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-634-723",
+    "amount_credited": 147.02,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-192-724",
+    "amount_credited": 50.08,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "WEB-3492",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-7081",
+    "amount_credited": 120.17,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "POS-935-727",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-378-728",
+    "amount_credited": 285.82,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "WEB-4897",
+    "amount_credited": 482.41,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "POS-906-730",
+    "amount_credited": 222.5,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-983-731",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "WEB-5035",
+    "amount_credited": 100.94,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-484-733",
+    "amount_credited": 352.22,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "WEB-3507",
+    "amount_credited": 486.87,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "WEB-5189",
+    "amount_credited": 252.92,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "POS-221-736",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-5835",
+    "amount_credited": 21.01,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "POS-986-739",
+    "amount_credited": 80.13,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-9156",
+    "amount_credited": 388.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "WEB-7263",
+    "amount_credited": 263.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "WEB-2423",
+    "amount_credited": 266.73,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "POS-287-743",
+    "amount_credited": 256.13,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "POS-448-744",
+    "amount_credited": 363.72,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "POS-875-745",
+    "amount_credited": 296.63,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-2581",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "WEB-8702",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-328-748",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "POS-482-749",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "POS-963-751",
+    "amount_credited": 295.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-2806",
+    "amount_credited": 315.14,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-614-753",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "POS-825-754",
+    "amount_credited": 326.45,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "WEB-5746",
+    "amount_credited": 386.28,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-608-756",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "POS-155-757",
+    "amount_credited": 357.51,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "POS-992-758",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:10:51"
+}
+{
+    "reference_id": "WEB-9613",
+    "amount_credited": 11.67,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-8156",
+    "amount_credited": 191.61,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-1185",
+    "amount_credited": 135.61,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-886-762",
+    "amount_credited": 117.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "POS-534-763",
+    "amount_credited": 180.88,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-391-764",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "POS-785-765",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "POS-137-766",
+    "amount_credited": 15.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-2252",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-988-768",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "POS-727-769",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "WEB-2446",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-654-772",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "WEB-6892",
+    "amount_credited": 79.62,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:05:51"
+}
+{
+    "reference_id": "WEB-8020",
+    "amount_credited": 22.06,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-6908",
+    "amount_credited": 311.27,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-7153",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "WEB-5339",
+    "amount_credited": 215.49,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-918-779",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-5114",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-101-781",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-5873",
+    "amount_credited": 98.8,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "WEB-8860",
+    "amount_credited": 23.53,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "POS-455-786",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "WEB-5083",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "POS-623-788",
+    "amount_credited": 313.82,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "WEB-9367",
+    "amount_credited": 309.25,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-5610",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "POS-162-791",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "WEB-5581",
+    "amount_credited": 287.11,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "POS-872-793",
+    "amount_credited": 65.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "POS-806-794",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-5776",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-434-796",
+    "amount_credited": 109.44,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "POS-532-797",
+    "amount_credited": 448.51,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "WEB-2587",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-3610",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-694-801",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "POS-663-802",
+    "amount_credited": 54.92,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "WEB-5126",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "WEB-6264",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-678-805",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-2176",
+    "amount_credited": 83.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-229-807",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-7139",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "WEB-8965",
+    "amount_credited": 408.27,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "POS-216-810",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "WEB-3925",
+    "amount_credited": 30.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "WEB-5791",
+    "amount_credited": 168.07,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-2454",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-117-814",
+    "amount_credited": 51.46,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "WEB-1309",
+    "amount_credited": 362.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-5789",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "POS-617-817",
+    "amount_credited": 223.59,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-368-818",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "WEB-4840",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-923-820",
+    "amount_credited": 293.96,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "WEB-2214",
+    "amount_credited": 494.05,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-3798",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-2149",
+    "amount_credited": 221.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "WEB-4666",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "POS-231-826",
+    "amount_credited": 88.16,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-422-827",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "WEB-7103",
+    "amount_credited": 206.0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:55:51"
+}
+{
+    "reference_id": "POS-470-830",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "WEB-3050",
+    "amount_credited": 287.69,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-195-832",
+    "amount_credited": 84.63,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-811-833",
+    "amount_credited": 99.34,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-1500",
+    "amount_credited": 154.02,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-622-836",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-506-837",
+    "amount_credited": 342.61,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "WEB-6123",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "POS-177-839",
+    "amount_credited": 333.09,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "WEB-9413",
+    "amount_credited": 97.18,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "POS-981-841",
+    "amount_credited": 267.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-4571",
+    "amount_credited": 192.13,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "POS-701-843",
+    "amount_credited": 277.34,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "POS-792-844",
+    "amount_credited": 467.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-7825",
+    "amount_credited": 157.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "WEB-3751",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "POS-986-847",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-7333",
+    "amount_credited": 203.11,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:30:51"
+}
+{
+    "reference_id": "POS-636-850",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "WEB-7221",
+    "amount_credited": 68.43,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-914-852",
+    "amount_credited": 240.51,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "POS-379-853",
+    "amount_credited": 74.37,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "WEB-4256",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-876-855",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "POS-839-856",
+    "amount_credited": 454.8,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "POS-537-857",
+    "amount_credited": 488.02,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "POS-150-858",
+    "amount_credited": 195.72,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-3606",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:53:51"
+}
+{
+    "reference_id": "WEB-9803",
+    "amount_credited": 277.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "WEB-2762",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "POS-955-862",
+    "amount_credited": 14.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "POS-751-863",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "WEB-2509",
+    "amount_credited": 354.09,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-882-866",
+    "amount_credited": 93.22,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "WEB-7883",
+    "amount_credited": 305.82,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-991-868",
+    "amount_credited": 84.48,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-8904",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:35:51"
+}
+{
+    "reference_id": "POS-245-870",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "WEB-5895",
+    "amount_credited": 179.5,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "WEB-7182",
+    "amount_credited": 157.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "POS-845-873",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:02:51"
+}
+{
+    "reference_id": "WEB-4032",
+    "amount_credited": 326.54,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-196-875",
+    "amount_credited": 316.73,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "POS-244-876",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:50:51"
+}
+{
+    "reference_id": "POS-484-878",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:57:51"
+}
+{
+    "reference_id": "WEB-1044",
+    "amount_credited": 116.23,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "WEB-7031",
+    "amount_credited": 498.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "POS-800-881",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:32:51"
+}
+{
+    "reference_id": "WEB-9675",
+    "amount_credited": 199.53,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-282-883",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:18:51"
+}
+{
+    "reference_id": "WEB-5060",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-129-886",
+    "amount_credited": 275.85,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "POS-878-887",
+    "amount_credited": 408.19,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "WEB-5553",
+    "amount_credited": 251.82,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "POS-647-889",
+    "amount_credited": 157.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "WEB-3612",
+    "amount_credited": 20.31,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:51:51"
+}
+{
+    "reference_id": "POS-483-891",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "POS-875-892",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-3159",
+    "amount_credited": 212.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-5118",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-3941",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "POS-364-897",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:58:51"
+}
+{
+    "reference_id": "WEB-8140",
+    "amount_credited": 121.44,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:07:51"
+}
+{
+    "reference_id": "WEB-7307",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:34:51"
+}
+{
+    "reference_id": "WEB-2067",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "POS-456-901",
+    "amount_credited": 22.15,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:31:51"
+}
+{
+    "reference_id": "WEB-7125",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "POS-206-903",
+    "amount_credited": 230.29,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "WEB-2039",
+    "amount_credited": 403.17,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-1864",
+    "amount_credited": 251.52,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "WEB-6395",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-857-908",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:43:51"
+}
+{
+    "reference_id": "POS-869-909",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:20:51"
+}
+{
+    "reference_id": "WEB-2992",
+    "amount_credited": 462.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-423-911",
+    "amount_credited": 281.47,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "POS-687-913",
+    "amount_credited": 458.94,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:44:51"
+}
+{
+    "reference_id": "POS-472-914",
+    "amount_credited": 65.39,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "WEB-3007",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "POS-202-917",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:08:51"
+}
+{
+    "reference_id": "POS-308-918",
+    "amount_credited": 234.95,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-232-919",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-8252",
+    "amount_credited": 283.92,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:42:51"
+}
+{
+    "reference_id": "WEB-9867",
+    "amount_credited": 443.46,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-955-923",
+    "amount_credited": 348.1,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-512-924",
+    "amount_credited": 473.09,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:23:51"
+}
+{
+    "reference_id": "POS-856-925",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "WEB-7683",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-281-928",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-6128",
+    "amount_credited": 214.48,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:47:51"
+}
+{
+    "reference_id": "WEB-5017",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "POS-902-931",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "WEB-2664",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "WEB-2077",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-7863",
+    "amount_credited": 59.91,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:04:51"
+}
+{
+    "reference_id": "POS-929-935",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "WEB-2655",
+    "amount_credited": 109.05,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "WEB-4495",
+    "amount_credited": 319.76,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "WEB-7664",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:40:51"
+}
+{
+    "reference_id": "POS-512-939",
+    "amount_credited": 286.49,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-3884",
+    "amount_credited": 441.15,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-2717",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "WEB-5779",
+    "amount_credited": 354.25,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:22:51"
+}
+{
+    "reference_id": "POS-103-944",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "WEB-2151",
+    "amount_credited": 277.08,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-9818",
+    "amount_credited": 147.65,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-468-947",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-654-948",
+    "amount_credited": 220.87,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:29:51"
+}
+{
+    "reference_id": "WEB-8005",
+    "amount_credited": 349.31,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "WEB-7362",
+    "amount_credited": 230.99,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-738-951",
+    "amount_credited": 258.22,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:13:51"
+}
+{
+    "reference_id": "WEB-7104",
+    "amount_credited": 249.58,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:33:51"
+}
+{
+    "reference_id": "WEB-3247",
+    "amount_credited": 468.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "POS-698-954",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "WEB-3582",
+    "amount_credited": 307.31,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-260-956",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-9241",
+    "amount_credited": 382.25,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-284-958",
+    "amount_credited": 128.4,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:48:51"
+}
+{
+    "reference_id": "POS-479-959",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:26:51"
+}
+{
+    "reference_id": "WEB-3935",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "POS-357-961",
+    "amount_credited": 96.33,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:09:51"
+}
+{
+    "reference_id": "WEB-4455",
+    "amount_credited": 91.89,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:03:51"
+}
+{
+    "reference_id": "POS-409-964",
+    "amount_credited": 232.02,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:52:51"
+}
+{
+    "reference_id": "WEB-7440",
+    "amount_credited": 328.14,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:19:51"
+}
+{
+    "reference_id": "POS-114-966",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:41:51"
+}
+{
+    "reference_id": "POS-821-967",
+    "amount_credited": 151.4,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "WEB-7377",
+    "amount_credited": 277.64,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:49:51"
+}
+{
+    "reference_id": "WEB-9305",
+    "amount_credited": 204.13,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "POS-911-971",
+    "amount_credited": 112.87,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:36:51"
+}
+{
+    "reference_id": "WEB-5745",
+    "amount_credited": 33.45,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:27:51"
+}
+{
+    "reference_id": "POS-451-973",
+    "amount_credited": 406.61,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:14:51"
+}
+{
+    "reference_id": "POS-673-974",
+    "amount_credited": 317.91,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "POS-427-975",
+    "amount_credited": 121.98,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:15:51"
+}
+{
+    "reference_id": "WEB-8300",
+    "amount_credited": 432.93,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:21:51"
+}
+{
+    "reference_id": "POS-520-977",
+    "amount_credited": 199.58,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:38:51"
+}
+{
+    "reference_id": "POS-431-978",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "POS-655-979",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-4191",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:46:51"
+}
+{
+    "reference_id": "POS-281-981",
+    "amount_credited": 308.32,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-3395",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:00:51"
+}
+{
+    "reference_id": "WEB-9282",
+    "amount_credited": 33.6,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:37:51"
+}
+{
+    "reference_id": "POS-282-984",
+    "amount_credited": 268.66,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "POS-422-985",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-7387",
+    "amount_credited": 293.2,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:17:51"
+}
+{
+    "reference_id": "WEB-5807",
+    "amount_credited": 328.78,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:39:51"
+}
+{
+    "reference_id": "WEB-8126",
+    "amount_credited": 222.36,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:06:51"
+}
+{
+    "reference_id": "POS-968-989",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:24:51"
+}
+{
+    "reference_id": "POS-345-990",
+    "amount_credited": 198.58,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:59:51"
+}
+{
+    "reference_id": "POS-963-991",
+    "amount_credited": 157.15,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:56:51"
+}
+{
+    "reference_id": "WEB-6021",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:12:51"
+}
+{
+    "reference_id": "WEB-5011",
+    "amount_credited": 0,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:25:51"
+}
+{
+    "reference_id": "WEB-4822",
+    "amount_credited": 481.24,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:28:51"
+}
+{
+    "reference_id": "POS-837-995",
+    "amount_credited": 284.03,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:54:51"
+}
+{
+    "reference_id": "WEB-4689",
+    "amount_credited": 54.95,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}
+{
+    "reference_id": "WEB-5662",
+    "amount_credited": 39.95,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:01:51"
+}
+{
+    "reference_id": "WEB-6692",
+    "amount_credited": 135.05,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 12:45:51"
+}
+{
+    "reference_id": "POS-420-999",
+    "amount_credited": 212.12,
+    "gl_account": "101-SALES",
+    "sync_date": "2026-04-14 13:16:51"
+}

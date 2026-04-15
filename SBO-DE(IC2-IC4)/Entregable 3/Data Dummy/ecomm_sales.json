@@ -1,0 +1,4128 @@
+{
+    "transaction_id": "WEB-1050",
+    "total_amount": 145.62,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:35:51",
+    "customer_email": "user_7@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7075",
+    "total_amount": 485.05,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_8@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8561",
+    "total_amount": 341.91,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_9@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4438",
+    "total_amount": 185.53,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:46:51",
+    "customer_email": "user_11@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1500",
+    "total_amount": 278.39,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_12@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5726",
+    "total_amount": 292.41,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_13@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5914",
+    "total_amount": 415.65,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_15@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5998",
+    "total_amount": 362.26,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:32:51",
+    "customer_email": "user_17@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7743",
+    "total_amount": 151.28,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_20@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9615",
+    "total_amount": 282.94,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_22@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7918",
+    "total_amount": 400.27,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:48:51",
+    "customer_email": "user_24@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6730",
+    "total_amount": 397.55,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:46:51",
+    "customer_email": "user_30@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2147",
+    "total_amount": 97.1,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:04:51",
+    "customer_email": "user_33@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2940",
+    "total_amount": 265.1,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:28:51",
+    "customer_email": "user_35@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6207",
+    "total_amount": 97.26,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_37@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6053",
+    "total_amount": 177.68,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:20:51",
+    "customer_email": "user_40@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6061",
+    "total_amount": 489.25,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_42@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8154",
+    "total_amount": 491.17,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_43@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1170",
+    "total_amount": 481.27,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_44@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9335",
+    "total_amount": 59.02,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:32:51",
+    "customer_email": "user_45@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5099",
+    "total_amount": 87.03,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:15:51",
+    "customer_email": "user_46@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2166",
+    "total_amount": 35.88,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:03:51",
+    "customer_email": "user_47@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7410",
+    "total_amount": 374.08,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:47:51",
+    "customer_email": "user_48@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7199",
+    "total_amount": 416.63,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_49@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4964",
+    "total_amount": 391.04,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_50@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1733",
+    "total_amount": 239.32,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_52@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3781",
+    "total_amount": 131.61,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_53@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9895",
+    "total_amount": 278.97,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_54@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4570",
+    "total_amount": 465.78,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_55@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7125",
+    "total_amount": 386.07,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_57@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4023",
+    "total_amount": 402.03,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_58@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6947",
+    "total_amount": 122.44,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_60@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6083",
+    "total_amount": 329.04,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:19:51",
+    "customer_email": "user_64@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5187",
+    "total_amount": 360.31,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:55:51",
+    "customer_email": "user_65@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9342",
+    "total_amount": 40.49,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_66@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3845",
+    "total_amount": 394.69,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_74@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6303",
+    "total_amount": 393.18,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_75@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7754",
+    "total_amount": 105.32,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:35:51",
+    "customer_email": "user_76@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5776",
+    "total_amount": 292.08,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:48:51",
+    "customer_email": "user_77@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3777",
+    "total_amount": 298.2,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_78@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4266",
+    "total_amount": 25.45,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:04:51",
+    "customer_email": "user_80@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9407",
+    "total_amount": 74.06,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_81@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5005",
+    "total_amount": 489.79,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_82@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8093",
+    "total_amount": 487.21,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_83@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1918",
+    "total_amount": 432.8,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_84@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5872",
+    "total_amount": 61.09,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_85@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9176",
+    "total_amount": 146.62,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_87@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1187",
+    "total_amount": 286.78,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_88@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7173",
+    "total_amount": 114.42,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_91@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6225",
+    "total_amount": 102.84,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:48:51",
+    "customer_email": "user_92@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4298",
+    "total_amount": 47.0,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_94@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1895",
+    "total_amount": 499.05,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_96@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6164",
+    "total_amount": 73.9,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_97@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3910",
+    "total_amount": 34.23,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_99@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4354",
+    "total_amount": 191.28,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:19:51",
+    "customer_email": "user_106@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1016",
+    "total_amount": 320.84,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_107@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8727",
+    "total_amount": 429.48,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_109@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9810",
+    "total_amount": 438.17,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_111@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5812",
+    "total_amount": 192.3,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:21:51",
+    "customer_email": "user_113@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5819",
+    "total_amount": 410.68,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_115@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9260",
+    "total_amount": 30.04,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_116@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4458",
+    "total_amount": 46.68,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_119@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6613",
+    "total_amount": 490.44,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_121@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9435",
+    "total_amount": 204.39,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:10:51",
+    "customer_email": "user_123@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3377",
+    "total_amount": 446.53,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:42:51",
+    "customer_email": "user_124@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7326",
+    "total_amount": 487.0,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_126@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5523",
+    "total_amount": 192.78,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:25:51",
+    "customer_email": "user_130@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5858",
+    "total_amount": 87.2,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:46:51",
+    "customer_email": "user_132@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3106",
+    "total_amount": 462.61,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_133@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1921",
+    "total_amount": 306.91,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:48:51",
+    "customer_email": "user_136@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7472",
+    "total_amount": 223.55,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_137@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8058",
+    "total_amount": 451.65,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:04:51",
+    "customer_email": "user_139@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9311",
+    "total_amount": 298.78,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:50:51",
+    "customer_email": "user_140@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5488",
+    "total_amount": 471.84,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_141@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4983",
+    "total_amount": 410.36,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:13:51",
+    "customer_email": "user_143@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7653",
+    "total_amount": 343.11,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_145@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8454",
+    "total_amount": 369.63,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_146@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9691",
+    "total_amount": 125.81,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_147@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9240",
+    "total_amount": 458.12,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:08:51",
+    "customer_email": "user_149@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7720",
+    "total_amount": 73.34,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_151@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8686",
+    "total_amount": 410.65,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_152@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3245",
+    "total_amount": 441.95,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:28:51",
+    "customer_email": "user_156@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5540",
+    "total_amount": 372.62,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:04:51",
+    "customer_email": "user_157@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6925",
+    "total_amount": 340.24,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:35:51",
+    "customer_email": "user_158@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7857",
+    "total_amount": 324.12,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_160@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6539",
+    "total_amount": 262.24,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:46:51",
+    "customer_email": "user_161@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8964",
+    "total_amount": 103.49,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:46:51",
+    "customer_email": "user_162@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4373",
+    "total_amount": 137.72,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_168@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6904",
+    "total_amount": 184.75,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_170@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9090",
+    "total_amount": 371.55,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:55:51",
+    "customer_email": "user_171@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7408",
+    "total_amount": 64.42,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_172@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4520",
+    "total_amount": 69.68,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_173@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5217",
+    "total_amount": 271.91,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_179@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3322",
+    "total_amount": 97.72,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:57:51",
+    "customer_email": "user_181@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1573",
+    "total_amount": 380.85,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_184@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9574",
+    "total_amount": 324.51,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_190@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9149",
+    "total_amount": 224.42,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:32:51",
+    "customer_email": "user_192@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6449",
+    "total_amount": 415.78,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_193@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4798",
+    "total_amount": 423.12,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_196@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6174",
+    "total_amount": 203.8,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_197@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1042",
+    "total_amount": 451.53,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_200@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9212",
+    "total_amount": 66.92,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:30:51",
+    "customer_email": "user_201@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9506",
+    "total_amount": 221.29,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:15:51",
+    "customer_email": "user_202@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8102",
+    "total_amount": 348.25,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:50:51",
+    "customer_email": "user_203@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9909",
+    "total_amount": 352.82,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_204@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6207",
+    "total_amount": 365.57,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_205@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9255",
+    "total_amount": 207.46,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_206@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8300",
+    "total_amount": 231.56,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_207@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7219",
+    "total_amount": 464.55,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_208@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7491",
+    "total_amount": 122.38,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_209@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7012",
+    "total_amount": 38.25,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:02:51",
+    "customer_email": "user_210@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3299",
+    "total_amount": 419.96,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:33:51",
+    "customer_email": "user_212@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7270",
+    "total_amount": 447.42,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_213@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1620",
+    "total_amount": 51.4,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_217@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5020",
+    "total_amount": 428.56,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:13:51",
+    "customer_email": "user_220@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4953",
+    "total_amount": 334.31,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:52:51",
+    "customer_email": "user_228@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3912",
+    "total_amount": 322.88,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:52:51",
+    "customer_email": "user_229@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4986",
+    "total_amount": 67.86,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:10:51",
+    "customer_email": "user_230@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4807",
+    "total_amount": 355.53,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_231@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4386",
+    "total_amount": 295.43,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_232@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5256",
+    "total_amount": 248.12,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_233@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5891",
+    "total_amount": 363.12,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:07:51",
+    "customer_email": "user_234@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6674",
+    "total_amount": 390.19,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_235@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5019",
+    "total_amount": 194.22,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:32:51",
+    "customer_email": "user_241@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8302",
+    "total_amount": 292.93,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:20:51",
+    "customer_email": "user_243@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5284",
+    "total_amount": 438.56,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_244@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3975",
+    "total_amount": 241.36,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:42:51",
+    "customer_email": "user_245@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5587",
+    "total_amount": 72.79,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_246@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4518",
+    "total_amount": 490.7,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_247@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9953",
+    "total_amount": 331.83,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_252@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3145",
+    "total_amount": 141.87,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:48:51",
+    "customer_email": "user_253@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1721",
+    "total_amount": 281.67,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_254@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6198",
+    "total_amount": 448.69,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_255@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1954",
+    "total_amount": 290.63,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:52:51",
+    "customer_email": "user_259@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5164",
+    "total_amount": 25.68,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:21:51",
+    "customer_email": "user_260@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8154",
+    "total_amount": 392.93,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_262@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6884",
+    "total_amount": 479.45,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:03:51",
+    "customer_email": "user_263@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1955",
+    "total_amount": 345.61,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_265@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9927",
+    "total_amount": 348.66,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:48:51",
+    "customer_email": "user_266@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4205",
+    "total_amount": 256.32,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:57:51",
+    "customer_email": "user_267@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1981",
+    "total_amount": 254.65,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:52:51",
+    "customer_email": "user_269@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3721",
+    "total_amount": 481.19,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_271@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6136",
+    "total_amount": 301.74,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_272@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6280",
+    "total_amount": 255.74,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_274@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8645",
+    "total_amount": 146.23,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_275@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9086",
+    "total_amount": 27.78,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:19:51",
+    "customer_email": "user_277@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8641",
+    "total_amount": 420.25,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_278@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2839",
+    "total_amount": 317.34,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:01:51",
+    "customer_email": "user_280@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9483",
+    "total_amount": 328.12,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:33:51",
+    "customer_email": "user_281@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3400",
+    "total_amount": 176.76,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:28:51",
+    "customer_email": "user_282@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4347",
+    "total_amount": 11.05,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:53:51",
+    "customer_email": "user_283@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6713",
+    "total_amount": 120.34,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_284@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5926",
+    "total_amount": 144.95,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:04:51",
+    "customer_email": "user_285@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9314",
+    "total_amount": 267.4,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_286@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2400",
+    "total_amount": 44.03,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:03:51",
+    "customer_email": "user_287@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3536",
+    "total_amount": 149.39,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_290@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6855",
+    "total_amount": 21.39,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_291@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9907",
+    "total_amount": 203.4,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:25:51",
+    "customer_email": "user_292@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1133",
+    "total_amount": 74.63,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:20:51",
+    "customer_email": "user_294@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2075",
+    "total_amount": 442.41,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:57:51",
+    "customer_email": "user_295@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9836",
+    "total_amount": 230.16,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_300@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3882",
+    "total_amount": 230.19,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:03:51",
+    "customer_email": "user_301@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3637",
+    "total_amount": 285.23,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_305@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4435",
+    "total_amount": 124.06,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:15:51",
+    "customer_email": "user_309@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9134",
+    "total_amount": 490.74,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_311@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2089",
+    "total_amount": 471.01,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:50:51",
+    "customer_email": "user_314@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6863",
+    "total_amount": 235.47,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_316@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2392",
+    "total_amount": 495.78,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_317@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1619",
+    "total_amount": 299.64,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_318@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1561",
+    "total_amount": 127.01,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_321@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4668",
+    "total_amount": 77.19,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_322@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6839",
+    "total_amount": 465.13,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_324@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3915",
+    "total_amount": 470.02,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:15:51",
+    "customer_email": "user_325@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2958",
+    "total_amount": 243.09,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_330@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3278",
+    "total_amount": 410.84,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_332@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9069",
+    "total_amount": 321.98,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:15:51",
+    "customer_email": "user_333@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3383",
+    "total_amount": 422.48,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_334@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8548",
+    "total_amount": 294.73,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:49:51",
+    "customer_email": "user_335@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9439",
+    "total_amount": 383.99,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:42:51",
+    "customer_email": "user_338@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3193",
+    "total_amount": 33.54,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_339@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6720",
+    "total_amount": 299.68,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_340@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2909",
+    "total_amount": 35.84,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_342@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7747",
+    "total_amount": 315.67,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_343@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5543",
+    "total_amount": 193.52,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:28:51",
+    "customer_email": "user_345@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2638",
+    "total_amount": 19.66,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:36:51",
+    "customer_email": "user_346@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6832",
+    "total_amount": 291.53,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:15:51",
+    "customer_email": "user_352@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4713",
+    "total_amount": 390.04,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:55:51",
+    "customer_email": "user_353@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5879",
+    "total_amount": 128.22,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:50:51",
+    "customer_email": "user_354@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8698",
+    "total_amount": 59.48,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_355@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5638",
+    "total_amount": 221.78,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_356@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5880",
+    "total_amount": 449.55,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:21:51",
+    "customer_email": "user_357@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7512",
+    "total_amount": 368.1,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:42:51",
+    "customer_email": "user_359@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9863",
+    "total_amount": 12.32,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_365@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2476",
+    "total_amount": 465.19,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_366@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7969",
+    "total_amount": 377.52,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:13:51",
+    "customer_email": "user_368@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6989",
+    "total_amount": 293.94,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_369@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7028",
+    "total_amount": 277.54,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:55:51",
+    "customer_email": "user_372@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3014",
+    "total_amount": 166.15,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_373@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5484",
+    "total_amount": 288.02,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_375@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1875",
+    "total_amount": 236.39,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_376@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1599",
+    "total_amount": 112.7,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_377@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7235",
+    "total_amount": 135.54,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_378@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9130",
+    "total_amount": 406.71,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_380@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5272",
+    "total_amount": 250.72,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:21:51",
+    "customer_email": "user_381@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8124",
+    "total_amount": 499.03,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_383@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3755",
+    "total_amount": 252.99,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_385@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3466",
+    "total_amount": 176.73,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_388@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5349",
+    "total_amount": 212.99,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_393@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1620",
+    "total_amount": 143.72,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:07:51",
+    "customer_email": "user_394@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6321",
+    "total_amount": 145.69,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_396@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4951",
+    "total_amount": 462.95,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_397@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8861",
+    "total_amount": 219.02,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_398@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2867",
+    "total_amount": 171.62,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_399@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9346",
+    "total_amount": 445.23,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:36:51",
+    "customer_email": "user_401@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2240",
+    "total_amount": 45.0,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_402@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5636",
+    "total_amount": 443.31,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_404@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4466",
+    "total_amount": 380.56,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_405@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7492",
+    "total_amount": 158.38,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_406@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1429",
+    "total_amount": 158.82,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_407@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3397",
+    "total_amount": 271.26,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_410@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1187",
+    "total_amount": 417.79,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:53:51",
+    "customer_email": "user_412@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4910",
+    "total_amount": 262.12,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_418@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4157",
+    "total_amount": 89.21,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:40:51",
+    "customer_email": "user_419@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2251",
+    "total_amount": 364.58,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:53:51",
+    "customer_email": "user_421@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1965",
+    "total_amount": 417.45,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_422@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1886",
+    "total_amount": 384.24,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:33:51",
+    "customer_email": "user_424@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4169",
+    "total_amount": 450.93,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_425@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9007",
+    "total_amount": 259.91,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_427@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3279",
+    "total_amount": 375.69,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_428@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7635",
+    "total_amount": 342.6,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:46:51",
+    "customer_email": "user_433@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4471",
+    "total_amount": 377.49,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_436@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1796",
+    "total_amount": 121.33,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:40:51",
+    "customer_email": "user_437@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4549",
+    "total_amount": 321.34,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:33:51",
+    "customer_email": "user_439@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8160",
+    "total_amount": 210.7,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_442@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7030",
+    "total_amount": 12.0,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_443@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2627",
+    "total_amount": 322.89,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_445@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9772",
+    "total_amount": 150.77,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_446@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2989",
+    "total_amount": 470.24,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_450@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9332",
+    "total_amount": 38.71,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:22:51",
+    "customer_email": "user_451@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4192",
+    "total_amount": 204.18,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_452@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5400",
+    "total_amount": 344.35,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_453@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7183",
+    "total_amount": 240.4,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_454@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4097",
+    "total_amount": 268.32,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:49:51",
+    "customer_email": "user_455@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6267",
+    "total_amount": 407.41,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_456@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2209",
+    "total_amount": 117.18,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_457@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8178",
+    "total_amount": 230.14,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_459@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4908",
+    "total_amount": 101.9,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_460@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9702",
+    "total_amount": 420.23,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_463@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6720",
+    "total_amount": 360.65,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_464@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8923",
+    "total_amount": 302.27,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:57:51",
+    "customer_email": "user_466@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9927",
+    "total_amount": 423.36,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:03:51",
+    "customer_email": "user_467@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2571",
+    "total_amount": 20.76,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_468@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3726",
+    "total_amount": 27.49,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:30:51",
+    "customer_email": "user_469@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8712",
+    "total_amount": 301.35,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:02:51",
+    "customer_email": "user_470@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2807",
+    "total_amount": 20.65,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_473@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8535",
+    "total_amount": 142.62,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_474@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8105",
+    "total_amount": 383.13,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:50:51",
+    "customer_email": "user_477@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1537",
+    "total_amount": 271.73,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_479@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8416",
+    "total_amount": 94.57,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_481@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4175",
+    "total_amount": 123.47,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:48:51",
+    "customer_email": "user_484@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1084",
+    "total_amount": 467.87,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:40:51",
+    "customer_email": "user_485@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9204",
+    "total_amount": 239.46,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_487@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5232",
+    "total_amount": 192.59,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_489@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5210",
+    "total_amount": 335.67,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:15:51",
+    "customer_email": "user_497@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7984",
+    "total_amount": 119.44,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:47:51",
+    "customer_email": "user_498@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1816",
+    "total_amount": 268.32,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_499@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4658",
+    "total_amount": 163.65,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_500@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4337",
+    "total_amount": 209.58,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_501@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9556",
+    "total_amount": 498.18,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:49:51",
+    "customer_email": "user_502@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2467",
+    "total_amount": 255.74,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:20:51",
+    "customer_email": "user_503@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1756",
+    "total_amount": 335.36,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:53:51",
+    "customer_email": "user_507@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9959",
+    "total_amount": 328.18,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:33:51",
+    "customer_email": "user_513@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1191",
+    "total_amount": 346.69,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:42:51",
+    "customer_email": "user_515@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3576",
+    "total_amount": 95.58,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:15:51",
+    "customer_email": "user_517@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1081",
+    "total_amount": 487.38,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_521@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3750",
+    "total_amount": 80.14,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:19:51",
+    "customer_email": "user_523@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6282",
+    "total_amount": 239.18,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_525@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7602",
+    "total_amount": 234.8,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_528@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4237",
+    "total_amount": 297.98,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:52:51",
+    "customer_email": "user_531@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1097",
+    "total_amount": 199.13,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_532@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4360",
+    "total_amount": 214.3,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_533@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4991",
+    "total_amount": 100.88,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_534@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8964",
+    "total_amount": 29.66,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_537@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8815",
+    "total_amount": 463.31,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_538@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9328",
+    "total_amount": 378.72,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_539@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3666",
+    "total_amount": 237.03,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_540@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2616",
+    "total_amount": 234.08,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:10:51",
+    "customer_email": "user_541@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5489",
+    "total_amount": 307.11,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_546@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1793",
+    "total_amount": 494.52,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_547@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8924",
+    "total_amount": 234.85,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_548@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1210",
+    "total_amount": 30.8,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:47:51",
+    "customer_email": "user_550@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7957",
+    "total_amount": 93.17,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:08:51",
+    "customer_email": "user_551@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1905",
+    "total_amount": 473.28,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:01:51",
+    "customer_email": "user_553@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1139",
+    "total_amount": 416.96,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:02:51",
+    "customer_email": "user_554@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2209",
+    "total_amount": 136.56,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_556@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9992",
+    "total_amount": 425.12,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:20:51",
+    "customer_email": "user_559@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9745",
+    "total_amount": 408.53,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_560@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2073",
+    "total_amount": 339.79,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_561@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3043",
+    "total_amount": 386.44,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:42:51",
+    "customer_email": "user_562@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9472",
+    "total_amount": 456.5,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:53:51",
+    "customer_email": "user_563@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8798",
+    "total_amount": 180.67,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:04:51",
+    "customer_email": "user_567@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6104",
+    "total_amount": 135.68,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:30:51",
+    "customer_email": "user_568@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8586",
+    "total_amount": 318.38,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_569@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6732",
+    "total_amount": 351.56,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:19:51",
+    "customer_email": "user_571@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9740",
+    "total_amount": 421.38,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_572@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6445",
+    "total_amount": 449.1,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_574@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5087",
+    "total_amount": 306.08,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_579@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2106",
+    "total_amount": 286.17,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_580@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1010",
+    "total_amount": 290.87,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:40:51",
+    "customer_email": "user_581@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7393",
+    "total_amount": 377.58,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:08:51",
+    "customer_email": "user_582@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5983",
+    "total_amount": 338.37,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:10:51",
+    "customer_email": "user_583@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1423",
+    "total_amount": 431.31,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_585@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6198",
+    "total_amount": 433.17,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_589@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9643",
+    "total_amount": 77.04,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_591@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8365",
+    "total_amount": 233.44,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_593@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8607",
+    "total_amount": 149.38,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:50:51",
+    "customer_email": "user_594@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6227",
+    "total_amount": 278.03,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_596@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2360",
+    "total_amount": 323.76,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_598@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1696",
+    "total_amount": 133.94,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_602@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6374",
+    "total_amount": 46.95,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_603@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9637",
+    "total_amount": 192.83,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_606@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6733",
+    "total_amount": 245.1,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_607@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1644",
+    "total_amount": 41.11,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_608@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9633",
+    "total_amount": 38.29,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:11:51",
+    "customer_email": "user_609@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4673",
+    "total_amount": 150.53,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_611@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1374",
+    "total_amount": 241.16,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_613@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1091",
+    "total_amount": 360.61,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:22:51",
+    "customer_email": "user_614@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8124",
+    "total_amount": 237.85,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_615@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5863",
+    "total_amount": 73.87,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_619@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7935",
+    "total_amount": 447.66,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_620@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8651",
+    "total_amount": 89.0,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:47:51",
+    "customer_email": "user_625@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2185",
+    "total_amount": 117.77,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:10:51",
+    "customer_email": "user_630@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4517",
+    "total_amount": 27.44,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_631@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8655",
+    "total_amount": 18.17,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_633@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5496",
+    "total_amount": 123.38,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_634@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6179",
+    "total_amount": 462.83,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_635@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7425",
+    "total_amount": 145.23,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:35:51",
+    "customer_email": "user_636@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2257",
+    "total_amount": 76.47,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:13:51",
+    "customer_email": "user_637@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1279",
+    "total_amount": 39.9,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_640@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8560",
+    "total_amount": 462.26,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_641@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4047",
+    "total_amount": 197.42,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_644@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4678",
+    "total_amount": 355.57,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_645@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7578",
+    "total_amount": 218.57,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:49:51",
+    "customer_email": "user_646@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9835",
+    "total_amount": 21.94,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:35:51",
+    "customer_email": "user_649@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9334",
+    "total_amount": 50.21,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_651@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9002",
+    "total_amount": 306.35,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_652@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3327",
+    "total_amount": 239.81,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_653@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1118",
+    "total_amount": 381.79,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_659@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7565",
+    "total_amount": 64.72,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_661@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9983",
+    "total_amount": 95.42,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_663@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3274",
+    "total_amount": 252.94,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_664@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9587",
+    "total_amount": 466.61,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:52:51",
+    "customer_email": "user_665@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5169",
+    "total_amount": 328.96,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:25:51",
+    "customer_email": "user_666@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7157",
+    "total_amount": 105.89,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:19:51",
+    "customer_email": "user_668@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1293",
+    "total_amount": 68.66,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:55:51",
+    "customer_email": "user_673@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8377",
+    "total_amount": 239.86,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_674@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2855",
+    "total_amount": 274.91,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_677@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8372",
+    "total_amount": 23.66,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_679@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6004",
+    "total_amount": 231.46,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_681@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6839",
+    "total_amount": 192.7,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_684@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9763",
+    "total_amount": 305.33,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_686@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2629",
+    "total_amount": 466.16,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_688@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8370",
+    "total_amount": 68.48,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:35:51",
+    "customer_email": "user_690@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1303",
+    "total_amount": 232.24,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_692@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7975",
+    "total_amount": 333.53,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_695@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4500",
+    "total_amount": 284.91,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:47:51",
+    "customer_email": "user_700@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4556",
+    "total_amount": 439.1,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:53:51",
+    "customer_email": "user_702@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9252",
+    "total_amount": 217.12,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:20:51",
+    "customer_email": "user_703@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7932",
+    "total_amount": 488.27,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_704@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4762",
+    "total_amount": 417.88,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:47:51",
+    "customer_email": "user_706@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9166",
+    "total_amount": 156.09,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:10:51",
+    "customer_email": "user_707@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5684",
+    "total_amount": 274.61,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_708@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3345",
+    "total_amount": 55.41,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:25:51",
+    "customer_email": "user_709@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7821",
+    "total_amount": 38.58,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_710@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6320",
+    "total_amount": 488.54,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_713@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2741",
+    "total_amount": 169.9,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_716@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6401",
+    "total_amount": 236.52,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:55:51",
+    "customer_email": "user_718@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5206",
+    "total_amount": 491.43,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_719@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5322",
+    "total_amount": 389.1,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:33:51",
+    "customer_email": "user_720@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3852",
+    "total_amount": 287.35,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_722@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3492",
+    "total_amount": 142.93,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_725@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7081",
+    "total_amount": 120.17,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:36:51",
+    "customer_email": "user_726@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4897",
+    "total_amount": 482.41,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:28:51",
+    "customer_email": "user_729@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5035",
+    "total_amount": 100.94,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_732@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3507",
+    "total_amount": 486.87,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:36:51",
+    "customer_email": "user_734@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5189",
+    "total_amount": 252.92,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_735@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5835",
+    "total_amount": 21.01,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:07:51",
+    "customer_email": "user_737@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8860",
+    "total_amount": 16.09,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_738@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9156",
+    "total_amount": 388.52,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_740@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7263",
+    "total_amount": 263.65,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_741@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2423",
+    "total_amount": 266.73,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:22:51",
+    "customer_email": "user_742@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2581",
+    "total_amount": 423.85,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:40:51",
+    "customer_email": "user_746@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8702",
+    "total_amount": 447.89,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_747@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2806",
+    "total_amount": 315.14,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_752@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5746",
+    "total_amount": 386.28,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_755@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9613",
+    "total_amount": 11.67,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_759@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8156",
+    "total_amount": 191.61,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:19:51",
+    "customer_email": "user_760@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1185",
+    "total_amount": 135.61,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_761@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2252",
+    "total_amount": 150.19,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_767@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2446",
+    "total_amount": 484.68,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_770@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6892",
+    "total_amount": 79.62,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:05:51",
+    "customer_email": "user_773@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8020",
+    "total_amount": 22.06,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_774@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6908",
+    "total_amount": 311.27,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_775@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7153",
+    "total_amount": 35.89,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:01:51",
+    "customer_email": "user_776@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5339",
+    "total_amount": 215.49,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:08:51",
+    "customer_email": "user_778@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5114",
+    "total_amount": 350.18,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_780@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5873",
+    "total_amount": 98.8,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:32:51",
+    "customer_email": "user_782@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8860",
+    "total_amount": 23.53,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_783@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8358",
+    "total_amount": 253.04,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_784@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5083",
+    "total_amount": 221.36,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:25:51",
+    "customer_email": "user_787@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9367",
+    "total_amount": 309.25,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_789@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5610",
+    "total_amount": 336.96,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:01:51",
+    "customer_email": "user_790@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5581",
+    "total_amount": 287.11,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:40:51",
+    "customer_email": "user_792@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5776",
+    "total_amount": 309.41,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_795@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1762",
+    "total_amount": 490.55,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_798@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2587",
+    "total_amount": 64.76,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_799@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3610",
+    "total_amount": 247.33,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_800@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5126",
+    "total_amount": 198.89,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:57:51",
+    "customer_email": "user_803@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6264",
+    "total_amount": 281.81,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_804@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2176",
+    "total_amount": 83.03,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_806@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7139",
+    "total_amount": 266.58,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_808@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8965",
+    "total_amount": 408.27,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:07:51",
+    "customer_email": "user_809@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3925",
+    "total_amount": 30.52,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:21:51",
+    "customer_email": "user_811@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5791",
+    "total_amount": 168.07,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_812@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2454",
+    "total_amount": 458.4,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:43:51",
+    "customer_email": "user_813@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1309",
+    "total_amount": 362.78,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_815@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5789",
+    "total_amount": 487.92,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:02:51",
+    "customer_email": "user_816@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4840",
+    "total_amount": 73.16,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_819@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2214",
+    "total_amount": 494.05,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_821@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3798",
+    "total_amount": 260.81,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_822@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2149",
+    "total_amount": 221.65,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:31:51",
+    "customer_email": "user_823@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4666",
+    "total_amount": 258.02,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:03:51",
+    "customer_email": "user_825@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7103",
+    "total_amount": 206.0,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:55:51",
+    "customer_email": "user_828@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5465",
+    "total_amount": 302.81,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:58:51",
+    "customer_email": "user_829@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3050",
+    "total_amount": 287.69,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_831@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1500",
+    "total_amount": 154.02,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_835@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6123",
+    "total_amount": 280.74,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:22:51",
+    "customer_email": "user_838@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9413",
+    "total_amount": 97.18,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_840@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4571",
+    "total_amount": 192.13,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:04:51",
+    "customer_email": "user_842@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7825",
+    "total_amount": 157.2,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_845@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3751",
+    "total_amount": 152.51,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_846@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7333",
+    "total_amount": 203.11,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:30:51",
+    "customer_email": "user_848@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7221",
+    "total_amount": 68.43,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_851@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4256",
+    "total_amount": 493.21,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:59:51",
+    "customer_email": "user_854@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3606",
+    "total_amount": 51.39,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:53:51",
+    "customer_email": "user_859@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9803",
+    "total_amount": 277.2,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:24:51",
+    "customer_email": "user_860@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2762",
+    "total_amount": 374.29,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_861@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2509",
+    "total_amount": 354.09,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:08:51",
+    "customer_email": "user_864@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7883",
+    "total_amount": 305.82,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:08:51",
+    "customer_email": "user_867@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8904",
+    "total_amount": 352.52,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:35:51",
+    "customer_email": "user_869@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5895",
+    "total_amount": 179.5,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_871@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7182",
+    "total_amount": 157.36,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:29:51",
+    "customer_email": "user_872@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4032",
+    "total_amount": 326.54,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_874@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1044",
+    "total_amount": 116.23,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:40:51",
+    "customer_email": "user_879@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7031",
+    "total_amount": 498.1,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:18:51",
+    "customer_email": "user_880@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9675",
+    "total_amount": 199.53,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:44:51",
+    "customer_email": "user_882@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5060",
+    "total_amount": 325.97,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:54:51",
+    "customer_email": "user_885@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5553",
+    "total_amount": 251.82,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_888@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3612",
+    "total_amount": 20.31,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:51:51",
+    "customer_email": "user_890@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3159",
+    "total_amount": 212.1,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:28:51",
+    "customer_email": "user_893@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5118",
+    "total_amount": 171.51,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_894@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3941",
+    "total_amount": 164.22,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:22:51",
+    "customer_email": "user_895@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6240",
+    "total_amount": 103.05,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_896@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8140",
+    "total_amount": 121.44,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:07:51",
+    "customer_email": "user_898@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7307",
+    "total_amount": 115.88,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:34:51",
+    "customer_email": "user_899@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2067",
+    "total_amount": 178.82,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:14:51",
+    "customer_email": "user_900@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7125",
+    "total_amount": 336.87,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:22:51",
+    "customer_email": "user_902@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6926",
+    "total_amount": 13.13,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_904@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2039",
+    "total_amount": 403.17,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_905@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-1864",
+    "total_amount": 251.52,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_906@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6395",
+    "total_amount": 158.93,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_907@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2992",
+    "total_amount": 462.78,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_910@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4792",
+    "total_amount": 221.47,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:08:51",
+    "customer_email": "user_915@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3007",
+    "total_amount": 142.61,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:56:51",
+    "customer_email": "user_916@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6477",
+    "total_amount": 398.5,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:55:51",
+    "customer_email": "user_920@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8252",
+    "total_amount": 283.92,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:42:51",
+    "customer_email": "user_921@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9867",
+    "total_amount": 443.46,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:23:51",
+    "customer_email": "user_922@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7683",
+    "total_amount": 209.46,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_927@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6128",
+    "total_amount": 214.48,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:47:51",
+    "customer_email": "user_929@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5017",
+    "total_amount": 298.05,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:36:51",
+    "customer_email": "user_930@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2664",
+    "total_amount": 463.95,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:03:51",
+    "customer_email": "user_932@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2077",
+    "total_amount": 72.73,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_933@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7863",
+    "total_amount": 59.91,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:04:51",
+    "customer_email": "user_934@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2655",
+    "total_amount": 109.05,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:41:51",
+    "customer_email": "user_936@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4495",
+    "total_amount": 319.76,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:49:51",
+    "customer_email": "user_937@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7664",
+    "total_amount": 74.68,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:40:51",
+    "customer_email": "user_938@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3884",
+    "total_amount": 441.15,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_940@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2717",
+    "total_amount": 71.48,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:13:51",
+    "customer_email": "user_941@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5779",
+    "total_amount": 354.25,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:22:51",
+    "customer_email": "user_943@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-2151",
+    "total_amount": 277.08,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:26:51",
+    "customer_email": "user_945@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9818",
+    "total_amount": 147.65,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_946@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8005",
+    "total_amount": 349.31,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:38:51",
+    "customer_email": "user_949@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7362",
+    "total_amount": 230.99,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:48:51",
+    "customer_email": "user_950@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7104",
+    "total_amount": 249.58,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:33:51",
+    "customer_email": "user_952@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3247",
+    "total_amount": 468.6,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_953@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3582",
+    "total_amount": 307.31,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_955@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9241",
+    "total_amount": 382.25,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_957@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3935",
+    "total_amount": 395.42,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:09:51",
+    "customer_email": "user_960@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4455",
+    "total_amount": 91.89,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:03:51",
+    "customer_email": "user_962@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7440",
+    "total_amount": 328.14,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:19:51",
+    "customer_email": "user_965@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7377",
+    "total_amount": 277.64,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:49:51",
+    "customer_email": "user_968@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9305",
+    "total_amount": 204.13,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_969@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5745",
+    "total_amount": 33.45,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:27:51",
+    "customer_email": "user_972@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8300",
+    "total_amount": 432.93,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:21:51",
+    "customer_email": "user_976@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4191",
+    "total_amount": 43.66,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 12:46:51",
+    "customer_email": "user_980@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-3395",
+    "total_amount": 205.85,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:00:51",
+    "customer_email": "user_982@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-9282",
+    "total_amount": 33.6,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:37:51",
+    "customer_email": "user_983@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-7387",
+    "total_amount": 293.2,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:17:51",
+    "customer_email": "user_986@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5807",
+    "total_amount": 328.78,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:39:51",
+    "customer_email": "user_987@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-8126",
+    "total_amount": 222.36,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:06:51",
+    "customer_email": "user_988@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6021",
+    "total_amount": 153.48,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:12:51",
+    "customer_email": "user_992@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5011",
+    "total_amount": 414.77,
+    "status": "RETURNED",
+    "event_timestamp": "2026-04-14 13:25:51",
+    "customer_email": "user_993@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4822",
+    "total_amount": 481.24,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:28:51",
+    "customer_email": "user_994@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-4689",
+    "total_amount": 54.95,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:16:51",
+    "customer_email": "user_996@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-5662",
+    "total_amount": 39.95,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 13:01:51",
+    "customer_email": "user_997@example.com",
+    "store_id": "ONLINE"
+}
+{
+    "transaction_id": "WEB-6692",
+    "total_amount": 135.05,
+    "status": "COMPLETED",
+    "event_timestamp": "2026-04-14 12:45:51",
+    "customer_email": "user_998@example.com",
+    "store_id": "ONLINE"
+}

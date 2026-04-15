@@ -1,0 +1,46 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: Root Stack para el Data Lakehouse de RetailMex (Modular)
+
+Parameters:
+  Environment:
+    Type: String
+    Default: stg
+    AllowedValues: [stg, prod]
+  TemplateBucketURL:
+    Type: String
+  S3ScriptPath:
+    Type: String
+
+Resources:
+  StorageStack:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: !Sub "${TemplateBucketURL}storage.yaml"
+      Parameters:
+        Env: !Ref Environment
+
+  CatalogStack:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: !Sub "${TemplateBucketURL}glue-catalog.yaml"
+      Parameters:
+        Env: !Ref Environment
+
+  IAMStack:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: !Sub "${TemplateBucketURL}iam.yaml"
+      Parameters:
+        Env: !Ref Environment
+        DataBucketArn: !GetAtt StorageStack.Outputs.DataBucketArn
+
+  GlueJobsStack:
+    Type: AWS::CloudFormation::Stack
+    DependsOn: [IAMStack, StorageStack, CatalogStack]
+    Properties:
+      TemplateURL: !Sub "${TemplateBucketURL}glue-jobs.yaml"
+      Parameters:
+        Env: !Ref Environment
+        GlueRoleArn: !GetAtt IAMStack.Outputs.GlueRoleArn
+        S3ScriptPath: !Ref S3ScriptPath
+        SilverBucketName: !GetAtt StorageStack.Outputs.SilverBucketName

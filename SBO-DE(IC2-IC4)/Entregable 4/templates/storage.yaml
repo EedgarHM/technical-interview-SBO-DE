@@ -1,0 +1,38 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Description: RetailMex (S3)
+
+Parameters:
+  Env:
+    Type: String
+    Description: Entorno de despliegue (stg/prod)
+
+Resources:
+  
+  DataLakeBucket:
+    Type: AWS::S3::Bucket
+  
+    DeletionPolicy: Retain
+    Properties:
+      BucketName: !Sub "retailmex-datalake-${Env}-${AWS::AccountId}"
+      
+      VersioningConfiguration:
+        Status: Enabled
+        
+      PublicAccessBlockConfiguration:
+        BlockPublicAcls: true
+        IgnorePublicAcls: true
+        BlockPublicPolicy: true
+        RestrictPublicBuckets: true
+
+Outputs:
+  SilverBucketName:
+    Description: Nombre del bucket para la capa Silver
+    Value: !Ref DataLakeBucket
+    Export:
+      Name: !Sub "${Env}-SilverBucketName"
+
+  DataBucketArn:
+    Description: ARN del bucket para permisos
+    Value: !GetAtt DataLakeBucket.Arn
+    Export:
+      Name: !Sub "${Env}-DataBucketArn"
