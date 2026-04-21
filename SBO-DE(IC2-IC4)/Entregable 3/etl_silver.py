@@ -162,3 +162,5 @@ def transform_to_silver():
 if __name__ == "__main__":
     transform_to_silver()
     job.commit()
+
+    print("ETL a Silver completado con éxito.")
